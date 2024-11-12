@@ -1,2 +1,2 @@
-# jhaazpr.github.io
+# jtranoleary.github.io
 My personal website.
